@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "UniversalSans-Text-300";
+    src: url("./Assets/Fonts/Universal-Sans-Text-300-Trial.ttf");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "UniversalSans-Display-400";
+    src: url("./Assets/Fonts/Universal-Sans-Display-400-Trial.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "UniversalSans-Display-580";
+    src: url("./Assets/Fonts/Universal-Sans-Display-580-Trial.ttf");
+    font-weight: 580;
+}
+
+$light: "UniversalSans-Text-300", sans-serif;
+$regular: "UniversalSans-Display-400", sans-serif;
+$medium: "UniversalSans-Display-580", sans-serif;
